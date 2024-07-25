@@ -1,6 +1,6 @@
-# Desafio da Adivinhação
+# Jogo do Número Misterioso 
 
-**Desafio da Adivinhação** é um jogo simples e divertido onde você tenta acertar um número aleatório gerado pelo computador. Com 4 tentativas, o objetivo é adivinhar o número entre 1 e 10. A cada tentativa, o jogo informa se a resposta está correta ou errada, e quantas tentativas restam. Se você não conseguir acertar o número dentro das tentativas, o jogo revela a resposta correta e encerra.
+**Jogo do Número Misterioso** é um jogo simples e divertido onde você tenta acertar um número aleatório gerado pelo computador. Com 4 tentativas, o objetivo é adivinhar o número entre 1 e 10. A cada tentativa, o jogo informa se a resposta está correta ou errada, e quantas tentativas restam. Se você não conseguir acertar o número dentro das tentativas, o jogo revela a resposta correta e encerra.
 
 ## Como Jogar
 
