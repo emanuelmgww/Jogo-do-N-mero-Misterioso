@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Jogo do Número Misterioso")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b4209759402557ff233fa4063e494ebb3079b08")]
 [assembly: System.Reflection.AssemblyProductAttribute("Jogo do Número Misterioso")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Jogo do Número Misterioso")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
